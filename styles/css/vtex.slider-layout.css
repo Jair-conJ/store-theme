@@ -27,9 +27,7 @@
 }
 
 /*Styles SR Consultores by JairconJ*/
-/* COLORS*/
-:root {--cafe: #441e13; --beige: #ffaa71;}
 
 .bg-action-primary {
-  background-color: var(--beige)!important;
+  background-color: #ffaa71!important;
 }
